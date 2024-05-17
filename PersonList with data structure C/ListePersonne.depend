@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1702322409 source:c:\users\info\desktop\listepersonne\personne.c
+	<stdio.h>
+	<stdlib.h>
+	"liste.h"
+	"personne.h"
+	<string.h>
+
+1702322403 c:\users\info\desktop\listepersonne\liste.h
+
+1702322403 c:\users\info\desktop\listepersonne\personne.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1702322537 source:c:\users\info\desktop\listepersonne\liste.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"liste.h"
+
+1702732309 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp4 listepersonne\personne.c
+	<stdlib.h>
+	<string.h>
+	<stdlib.h>
+	"personne.h"
+
+1702732060 c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp4 listepersonne\liste.h
+
+1702732243 c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp4 listepersonne\personne.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1702732111 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp4 listepersonne\liste.c
+	<stdlib.h>
+	<stdio.h>
+	"liste.h"
+
+1703007721 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp4 listepersonne\main.c
+	<stdlib.h>
+	<stdio.h>
+	"liste.h"
+	"personne.h"
+
