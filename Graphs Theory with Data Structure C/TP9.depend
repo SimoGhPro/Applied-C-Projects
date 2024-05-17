@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1702511788 source:c:\users\user\desktop\tp9com\main.c
+	"graphemath.h"
+	<stdio.h>
+
+1702511958 c:\users\user\desktop\tp9com\graphemath.h
+	<stdio.h>
+
+1702513589 source:c:\users\info\desktop\tp9com\tp9com\graphemath.c
+	"graphemath.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1702511958 c:\users\info\desktop\tp9com\tp9com\graphemath.h
+	<stdio.h>
+
+1702513414 source:c:\users\info\desktop\tp9com\tp9com\main.c
+	"graphemath.h"
+	<stdio.h>
+
+1703002499 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp9 graphe\graphemath.c
+	"graphemath.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1703002325 c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp9 graphe\graphemath.h
+	<stdio.h>
+
+1703002859 source:c:\users\info\desktop\s5 gi\data structure\travaux pratiques\tp9 graphe\main.c
+	"graphemath.h"
+	<stdio.h>
+
